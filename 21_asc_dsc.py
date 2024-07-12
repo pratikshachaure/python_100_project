@@ -10,5 +10,5 @@ elif number > second:
     print("Ascending order:", second, number) 
     print("Descending order:", number, second)
 else:
-    print("Ascending order:", number, second) 
+    print("Ascending order  :", number, second) 
     print("Descending order:", second, number)
