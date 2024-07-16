@@ -1,6 +1,6 @@
 def sum_fibonacci(n, first=0, second=1):
     if n > 0:
-        print(first,"      ")
+        print(first,"    ")
         third = first + second
         first = second
         second = third
